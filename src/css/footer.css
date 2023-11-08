@@ -1,0 +1,8 @@
+.footer-container {
+  background-color: #fafafa;
+  padding: 1.625rem 20vw;
+}
+
+.footer-links-container {
+  column-gap: 12px;
+}

@@ -1,0 +1,16 @@
+.examination-section {
+  padding: 7rem 20vw;
+}
+
+.examination-title-container {
+  align-items: flex-start;
+}
+
+.examination-title-container h2 {
+  margin: 10px 0;
+}
+
+.examination-cards-container {
+  column-gap: 1.875rem;
+  margin-top: 7rem;
+}

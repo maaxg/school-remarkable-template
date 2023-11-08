@@ -1,0 +1,17 @@
+.home-page {
+  background-image: url(/public/assets/shape-cover-first-section.png);
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.home-page button {
+  margin-right: 12px;
+}
+
+.home-container {
+  padding: 7rem 0;
+  row-gap: 2.5rem;
+}

@@ -1,0 +1,45 @@
+.pricing-container {
+  padding: 10rem 20vw;
+  row-gap: 10rem;
+}
+
+.pricing-cards-container {
+  column-gap: 2rem;
+}
+
+.custom-pricing-card {
+  max-width: 330px;
+}
+
+.custom-pricing-card-header {
+  row-gap: 35px;
+}
+
+.custom-pricing-card-content {
+  row-gap: 35px;
+}
+
+.round-circle-primary {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--primary-color);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 4rem;
+}
+
+.round-circle-secondary {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--muted-color);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 4rem;
+}
+
+.pricing-li {
+  margin: 12px 0;
+  column-gap: 6px;
+}

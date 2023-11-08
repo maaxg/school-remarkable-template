@@ -1,0 +1,14 @@
+.popular-couses-section {
+  padding: 7rem 20vw;
+  column-gap: auto;
+}
+
+.popular-courses-divider {
+  height: 7px;
+  width: 94px;
+  background-color: var(--danger-color);
+}
+
+.popular-couses-container {
+  row-gap: 2.188rem;
+}

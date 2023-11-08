@@ -1,0 +1,28 @@
+header {
+  padding: 2.361vw 13.611vw 2.631vw 13.611vw;
+}
+.nav-container {
+  align-self: center;
+  overflow-x: hidden;
+}
+
+.nav-menu {
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.nav-links {
+  justify-content: flex-end;
+}
+
+.nav-links a {
+  margin: 0 1.25rem 0 1.25rem;
+}
+
+.nav-contact {
+  justify-content: flex-end;
+}
+
+.nav-contact button {
+  margin-right: 2.813rem;
+}

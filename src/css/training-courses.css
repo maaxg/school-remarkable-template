@@ -1,0 +1,26 @@
+.traning-courses-section {
+  padding: 7rem 20vw;
+  row-gap: 7rem;
+  width: 100%;
+  background-color: var(--faded-primary-color);
+}
+
+.training-courses-cards {
+  column-gap: 2rem;
+}
+
+.training-courses-card-header {
+  padding: 0;
+}
+
+.training-courses-card-content {
+  padding: 1.563rem;
+}
+
+.training-courses-content-container {
+  row-gap: 10px;
+}
+
+.training-courses-price-container {
+  column-gap: 8px;
+}

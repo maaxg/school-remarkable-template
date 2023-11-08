@@ -1,0 +1,8 @@
+.testimonal-container {
+  padding: 10rem 20vw;
+  row-gap: 10rem;
+}
+
+.testimonial-image {
+  border-radius: 50%;
+}
